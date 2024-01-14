@@ -10,7 +10,7 @@ A complete todo application with all features.
 
 ---
 
-### Made with ❤️ by [Sreedhar Goud](https://www.instagram.com/mr_sreedhar/)
+### Made with ❤️ by [Sreedhar Goud](https://www.instagram.com/mr__sreedhar/)
 
 
 
