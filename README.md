@@ -4,9 +4,9 @@
 
 A complete todo application with all features.
 
-**live demo: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)**
+**live demo: [https://wc-react-todo-app.netlify.app/](https://fanciful-licorice-345fbc.netlify.app/)**
 
-**Watch On Youtube: [https://youtu.be/W0Uf_xu350k](https://youtu.be/W0Uf_xu350k)**
+
 
 ---
 
@@ -16,11 +16,11 @@ A complete todo application with all features.
 
 
 
-## Project Description
+### Project Description
 
 In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`. Also we will learn to make simple animations using `Framer Motion`. This will be a complete `beginner` friendly app. Hope you enjoy it.
 
-## What we are going to learn/use
+## What are used
 
 - [React](https://reactjs.org/)
 - [React Redux](https://redux.js.org/)
@@ -36,7 +36,7 @@ In the project, we will be creating a Complete Todo Application with all feature
 
 ## Starter files
 
-You can clone the project and git checkout to `starter-files` branch.
+You can clone the project using git
 
 ## Getting Started
 
